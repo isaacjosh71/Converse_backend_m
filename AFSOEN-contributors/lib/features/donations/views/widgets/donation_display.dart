@@ -24,6 +24,7 @@ class _DonationModalScreenState extends State<DonationModalScreen> {
 
   final TextEditingController _amountFieldController = TextEditingController();
 
+
   void _updateTextField(String value) {
     _amountFieldController.text = value;
   }

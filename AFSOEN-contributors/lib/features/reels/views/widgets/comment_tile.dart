@@ -12,6 +12,7 @@ class CommentTile extends StatelessWidget {
   final String time;
   final int replies;
 
+
   @override
   Widget build(BuildContext context) {
     return Container(

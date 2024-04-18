@@ -25,6 +25,7 @@ class _ReelsScreenState extends State<ReelsScreen> {
     "Movies",
   ];
 
+
   int _selectedIndex = 0;
 
   final List<Uri> _videos = [

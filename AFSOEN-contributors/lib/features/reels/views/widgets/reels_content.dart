@@ -37,6 +37,7 @@ class _ReelsContentState extends State<ReelsContent> {
     setState(() {});
   }
 
+
   @override
   void dispose() {
     _videoPlayerController!.dispose();

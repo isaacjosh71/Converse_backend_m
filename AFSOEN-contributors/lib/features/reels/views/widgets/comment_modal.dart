@@ -19,6 +19,7 @@ class CommentModalScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Column(
+
       children: [
         SizedBox(height: 11.h,),
         Text('$comment comments'),

@@ -164,6 +164,7 @@ class ReelsDetailsAndIcons extends StatelessWidget {
         ));
   }
 
+
   Widget _badge(){
     return Stack(
       children: [
